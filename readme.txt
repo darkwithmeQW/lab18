@@ -1,1 +1,2 @@
-da tut ne rabotaet bufer obmena 
+versiya main
+fjdshfdkjashfdlas
